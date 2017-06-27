@@ -1,0 +1,15 @@
+//
+//  QuickExpand.pch
+//  QuickExpandMenu
+//
+//  Created by pk on 2016/12/16.
+//  Copyright © 2016年 pk. All rights reserved.
+//
+
+#ifndef QuickExpand_pch
+#define QuickExpand_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* QuickExpand_pch */
